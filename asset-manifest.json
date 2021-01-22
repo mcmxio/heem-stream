@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/heem-stream/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/heem-stream/static/js/main.c1269c31.chunk.js",
+    "main.js.map": "/heem-stream/static/js/main.c1269c31.chunk.js.map",
+    "runtime-main.js": "/heem-stream/static/js/runtime-main.0cdf1c83.js",
+    "runtime-main.js.map": "/heem-stream/static/js/runtime-main.0cdf1c83.js.map",
+    "static/js/2.de837239.chunk.js": "/heem-stream/static/js/2.de837239.chunk.js",
+    "static/js/2.de837239.chunk.js.map": "/heem-stream/static/js/2.de837239.chunk.js.map",
+    "static/js/3.20d132ef.chunk.js": "/heem-stream/static/js/3.20d132ef.chunk.js",
+    "static/js/3.20d132ef.chunk.js.map": "/heem-stream/static/js/3.20d132ef.chunk.js.map",
+    "index.html": "/heem-stream/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/heem-stream/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.de837239.chunk.js.LICENSE.txt": "/heem-stream/static/js/2.de837239.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/heem-stream/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cdf1c83.js",
+    "static/js/2.de837239.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c1269c31.chunk.js"
+  ]
+}
